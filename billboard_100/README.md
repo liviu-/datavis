@@ -1,6 +1,7 @@
 # Popular Music Genres Since the 50s
 
 ![The Visualisation](figures/visualisation.png)
+<p align="center"> <a href="https://raw.githubusercontent.com/liviu-/datavis/master/billboard_100/figures/visualisation.png">Larger Image</a></p>
 
 ## General information
 - This only looks at the songs from the year-end Billboard Top 100, and shows how the musical genres were distributed that year.
